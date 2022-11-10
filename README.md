@@ -14,3 +14,6 @@ ETL1= Limpieza, transformacion y Carga a base de datos del primer dataset
 ETL2= Limpieza, transformacion y Carga a base de datos del segundo dataset
 DashboardFinal= Presentacion en Power Bi del proyecto
 
+Contacto por temas sobre el proyecto=
+Email= allprocascos@gmail.com
+Agustina Castillo
